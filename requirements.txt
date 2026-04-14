@@ -11,3 +11,5 @@ curl2pyreqs
 pyfiglet
 bs4
 InstagramAPI
+uuid4
+generate_user_agent
